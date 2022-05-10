@@ -33,6 +33,6 @@ https://kr.piliapp.com/emoji/list/
 - <img src="https://img.shields.io/badge/Git-1A1A1A?style=flat&logo=Git&logoColor=F05032"/>
  
 ## 🔗 Link
-- 저장소 : [Here](https://github.com/milk-maca?tab=repositories)
+- 저장소 : [ >> Go to repositories](https://github.com/milk-maca?tab=repositories)
 <!-- - 블로그 : https://velog.io/@milk-maca   -->
 - 이메일 : <norte0190@gmail.com>
