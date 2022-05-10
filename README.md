@@ -1,7 +1,7 @@
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=milk-maca&show_icons=true&theme=radical)
  
-## 🌙 Info
+## 🔗 Link
 - 저장소 : [Here](https://github.com/milk-maca?tab=repositories)
 <!-- - 블로그 : https://velog.io/@milk-maca   -->
 - 이메일 : <norte0190@gmail.com>
