@@ -18,10 +18,15 @@ https://kr.piliapp.com/emoji/list/
 
 
 <!-- HTML5 CSS3 JavaScript -->
-- <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=flat&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=flat&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+- <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=flat&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=flat&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-1A1A1A?style=flat&logo=TypeScript&logoColor=3178C6"/>
+
 
 <!-- Java, Spring-->
-- <img src="https://img.shields.io/badge/Java-1A1A1A?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-1A1A1A?style=flat&logo=Spring&logoColor=6DB33F"/>
+- <img src="https://img.shields.io/badge/Java-1A1A1A?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-1A1A1A?style=flat&logo=Spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Boot-1A1A1A?style=flat&logo=Spring Boot&logoColor=6DB33F"/>
+
+<!-- Node.js -->
+- <img src="https://img.shields.io/badge/Node.js-1A1A1A?style=flat&logo=Node.js&logoColor=339933"/>
+
 
 <!-- Python -->
 - <img src="https://img.shields.io/badge/Python-1A1A1A?style=flat&logo=Python&logoColor=3776AB"/>
