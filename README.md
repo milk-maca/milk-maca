@@ -32,7 +32,11 @@ https://kr.piliapp.com/emoji/list/
 - <img src="https://img.shields.io/badge/Python-1A1A1A?style=flat&logo=Python&logoColor=3776AB"/>
 
 <!-- c++  -->
-- <img src="https://img.shields.io/badge/c++ -1A1A1A?style=flat&logo=c%2B%2B&logoColor=00599C"/>
+- <img src="https://img.shields.io/badge/c++-1A1A1A?style=flat&logo=c%2B%2B&logoColor=00599C"/>
+
+<!-- Oracle, MySQL  -->
+- <img src="https://img.shields.io/badge/Oracle-1A1A1A?style=flat&logo=Oracle&logoColor=F80000"/> <img src="https://img.shields.io/badge/MySQL-1A1A1A?style=flat&logo=MySQL&logoColor=4479A1"/>
+
 
 <!-- Git -->
 - <img src="https://img.shields.io/badge/Git-1A1A1A?style=flat&logo=Git&logoColor=F05032"/>
