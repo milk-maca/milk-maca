@@ -2,9 +2,9 @@
 이모지 모음 :
 https://kr.piliapp.com/emoji/list/ 
 -->
-
+<!-- 무언가 이슈가 있음...
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=milk-maca&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=milk-maca&show_icons=true&theme=radical) -->
  
 ## 📚 Stack  
 
