@@ -25,8 +25,9 @@ https://kr.piliapp.com/emoji/list/
 - <img src="https://img.shields.io/badge/Java-1A1A1A?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-1A1A1A?style=flat&logo=Spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Boot-1A1A1A?style=flat&logo=Spring Boot&logoColor=6DB33F"/>
 
 <!-- Node.js -->
+<!--
 - <img src="https://img.shields.io/badge/Node.js-1A1A1A?style=flat&logo=Node.js&logoColor=339933"/>
-
+-->
 
 <!-- Python -->
 - <img src="https://img.shields.io/badge/Python-1A1A1A?style=flat&logo=Python&logoColor=3776AB"/>
